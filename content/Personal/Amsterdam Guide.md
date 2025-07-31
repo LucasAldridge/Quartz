@@ -29,4 +29,4 @@ Lets get it straight... go to Foodhallen. It's kinda like Optimist Hall except i
 # Weed
 
 I'm not a weed guy, but I did try it while I was there. Strangely, their top shelf stuff is from California. Most standard stuff is about 10 Euro for a gram. Cali weed, however, is around 25 Euro a gram. This kinda leads me to the idea that if you want to just smoke weed... go to California. It's probably cheaper, you can go to the beach, and there's less that can go wrong with travel. 
-
+james
