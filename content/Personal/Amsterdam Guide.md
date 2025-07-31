@@ -22,7 +22,7 @@ Lets get it straight... go to Foodhallen. It's kinda like Optimist Hall except i
 1) Dominos
 	- Goated spot. Right by both of those hotels
 2) Joe and The Juice
-	- They got breakfast. Tastes great![[quartz.config.ts]]
+	- They got breakfast. Tastes great!
 3) any of the little bar/tapas places around
 	- There's a lot of these. Grab a snack and a Heineken. It's worth
 
