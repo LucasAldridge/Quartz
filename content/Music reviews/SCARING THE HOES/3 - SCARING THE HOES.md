@@ -1,0 +1,3 @@
+Nothing better than Peggy clapping ass in the background on this one. He's beating his meat so hard rn... god I love this song. Horn sample is eclectic and great for it. Percussion is so stylistically aligned with Peggy and subject matter is pretty relevant to people in our age group. Admittedly, Danny saying he "doesn't wanna hear that weird shit anymore" is a bit hypocritical, but that doesn't mean this is a bad track by any means... 
+
+8/10

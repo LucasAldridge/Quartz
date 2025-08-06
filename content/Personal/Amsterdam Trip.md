@@ -8,4 +8,4 @@ I smell like shit (did i mention my clothes are in London?) but im certainly lea
 
 In much lighter news, Amsterdam is cool as fuck. Ben, Willow, and I kinda just drank like I do at home. We got a bottle of something strong and kinda js drank that in the room, but the few beers (Heineken) were fantastic. Makes sense as we literally walked past where they brew it. The bike infrastructure is fantastic, and the architecture looks a lot like New york. I can see how the dutch started all that in the US. It should be noted that literally everyone where knows SOME English. 
 
-Either way... I guess that kinda concludes Amsterdam. I may make a guide to taking a trip here, detailing hotels, restaurants, etc. If I do, it'll be linked HERE
+Either way... I guess that kinda concludes Amsterdam. I may make a guide to taking a trip here, detailing hotels, restaurants, etc. If I do, it'll be linked to the right [[Amsterdam Guide]]
