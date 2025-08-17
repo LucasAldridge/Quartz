@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Lucas' Notes'",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -41,7 +41,7 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#161618",
-          lightgray: "#393639",
+          lightgray: "#d9d1b8",
           gray: "#646464",
           darkgray: "#d4d4d4",
           dark: "#ebebec",

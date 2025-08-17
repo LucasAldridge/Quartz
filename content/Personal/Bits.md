@@ -11,9 +11,12 @@ Completely stolen from Tommy, but so was this website... If you're interested in
 - Army trick
 - Christian
 - "That's not how your mom does it"
+- james
+- james
 # Current
 - "Who up blankin they blank"
 
 # Stop
 - "Ma-ma!"
 - Bad "Who up blankin they blank"'s
+- 
