@@ -12,7 +12,7 @@ This is a document for projects that don't really need to be fleshed out with th
 - Dashboard
 - Make a watch
 - Finish branding my computers
-- Print designs on stickers for metal posters***
+- Print designs on stickers for metal posters*** --> sticker printer in makerspace
 - Learn a real programming language
 - print the koozie
 - Buy a phone --> jailbreak --> linux
@@ -27,4 +27,5 @@ This is a document for projects that don't really need to be fleshed out with th
 - Beekeeping
 - 3D print the shit from all those reels I saved
 - CNC mill something
+- Make an electric scooter
 - 
