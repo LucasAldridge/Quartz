@@ -17,7 +17,6 @@ It should be noted that Ms. Du had possibly the most dramatic entrance of all ti
 	- Section 001: **Friday, Dec 5 – 8:00–10:30am**
 	- Section 002: **Friday, Dec 5 – 11:00am–1:30pm**
 	- Section 003: **Wednesday, Dec 10 – 2:00–4:30pm**
-
 ## Normal due dates
 - **Set 1**: Saturday, **Sept 20 @ 11:59pm**
 - **Discussion 1**: Saturday, **Sept 20 @ 11:59pm**
