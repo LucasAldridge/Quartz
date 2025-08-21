@@ -13,8 +13,8 @@ This has lead me to the conclusion that making my own desk is the easiest option
 - Thickness able to accommodate mic arm clamp
 - Spend <$200
 # Current to-do
-- [ ] Choose height of desk bottom 
-- [ ] Decide EXACT dimensions
+- [x] Choose height of desk bottom 
+- [x] Decide EXACT dimensions
 - [x] Choose material
 - [x] Decide if I want any special features
 - [ ] Determine what I'll do for legs
@@ -58,13 +58,15 @@ Probably gonna go with polystyrene. It's cheaper, meaning I'll stay in budget, h
 
 # Dimensions 
 ___
-This is a pretty hands-on part of design. I'll need to measure some of the stuff on my desk and get a better feel for the size of the room before I'm comfortable putting down any set-in-stone dimensions 
+I'm thinking 5.5' in width. 30 inches depth makes sense. I wan a 10 inch depth platform 2 feet wide. 4.75 inch standoffs and quarter inch MDF platform. That should leave room for a keyboard an mouse holder under the platform, as well as a center speaker. `1`
 
 # Legs
 ___
-Yeah, I need to do research here too
+I have come into the possession of some rolling legs. They can move up and down, which fixes my issue of desk height... now, i'm unsure of how much weight these desks can HANDLE... but I don't imagine these legs can handle more than what's necessary. 
 
 # Height 
 ___
-This will be one of the harder things for me to determine, but I'm sure some big company or a weird carpenter has published experiments done to determine how tall a desk should be for people of different heights. I will read these and report back. 
+Legs should fix this issue
+
+
 

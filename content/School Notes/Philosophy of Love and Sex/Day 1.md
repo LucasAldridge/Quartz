@@ -7,7 +7,7 @@
 14% Pop quizzes Monday/Wednesday (Averaged)
 
 ## Normal Due Dates
-
+	
 
 
 # Socrates vs. Plato

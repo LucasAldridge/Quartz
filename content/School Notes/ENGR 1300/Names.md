@@ -1,6 +1,47 @@
-Braden -  Computer, long hair and beard
-Luke - Mechanical, beard hat 
-Jack - Computer, long hair 
+Braeden -  Computer, long hair and beard 6155794366
+Luke - Mechanical, beard hat 7044668549
+Jack - Computer, long hair 9848677812
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
