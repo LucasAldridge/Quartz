@@ -25,6 +25,7 @@ ___
 - Specific Date and Time functions
 - Specific weather functions
 - File read/write specific to your use-case (EX: could save recipes it comes up with for later reference)
-- Playing local music files
-- WLED integration
+- Playing local music files (see: [[Self hosted Music Piracy]])
+- WLED integration (see:[[LED lights]] )
+- Google calendar integration
 
