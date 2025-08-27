@@ -85,4 +85,10 @@ Jacob
 - Leadership
 - Decisionmaking
 - etc
-#
+# Industrial Systems engineering
+- Integration focused job. Bring numerous things together to make the system as a whole more efficient 
+### Jobs
+- IT
+- Automotive
+- Aerospace
+
