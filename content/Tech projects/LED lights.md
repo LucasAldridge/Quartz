@@ -17,3 +17,10 @@ You should probably get some lights for your lighting project. Strip lights are 
 These are what you use to connect your lights to your ESP32. Get the Male->Female ones... a lot are just Male->Male, which in this case it no good. Peep Aliexpress if you want em cheap. 
 
 I myself have successfully acquired all of these, so now it's a matter of hooking the ESP to my computer, going to install.wled.me, and downloading WLED onto the ESP. From there, you can configure the wifi settings by connecting to the WLED-AP network (via your phone) that your ESP automatically starts emitting once WLED is installed. Hit settings, connect it to your actual Wifi network, download the WLED app (again, on your phone), then either manually input the Client ID found in the WLED-AP wifi settings for your lights, or (in some lucky cases) just hit the "discover devices" button on the app.
+
+## 4. Control box
+I need to make a control box. I'm thinking 3D printed Black. It needs
+- Switch on and off
+- knob color
+- knob brightness
+- 

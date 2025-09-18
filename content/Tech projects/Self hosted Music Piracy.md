@@ -37,4 +37,26 @@ This is for CLI specifically
 # What Next?
 At the time of writing this, I intend for it to be open source. That means I cant do anything like charge for it or anything like that. Obviously it would be really nice to make money, but people pirating music aren't really in the business of giving it out. So since I'm not gonna do everything I can to make a ton of money... how can I take this project a step further in making music more and more accessible? Torrenting. Tommy planned to do this for his movie/TV scraper and I think I'll do something similar. I want to give myself and everyone else who uses the tool to seed the music files they download IF THEY WANT. This will not be mandatory, nor will it be something you just type a command and start doing. There are inherent dangers to torrenting when not done properly, and I don't want those to befall people who don't know what they're doing. More than likely I will write or locate a safe torrenting guide and force it to display before they can turn on the setting. 
 
+## Architecture
+The flow may work like this...
+- search prompt
+- search prompt goes to all scrapers
+- scrapers convene at ranker, show all their results and the ranker ranks all of it based off their source scores and quality of their results
+- highest ranked is served 
+- user can change if they want but that hurts that source's score
 
+Choose source
+top... 10 results from there are chosen. first source given is chosen by ranking system. thats where switch occurs. playback is handled in bg. 
+
+
+SO
+- search prompt
+- if prompt hella similar to some shi in cache we show them the cached song first
+- search prompt goes to all scrapers
+- top ranked source has its results shown first. 
+- full play event gives points, the earlier the result is in the list the greater the points
+- non-full play takes off js a few points
+- changing source is BAD for points
+
+SO FOR EACH SCRAPER
+it needs to get name, artist name, duration, and a means to download the selected song
