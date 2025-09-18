@@ -22,7 +22,7 @@
 - Construction and Architecture
 - Manufacturing
 - Consulting firm
-## Real world Projects and Applications
+### Real world Projects and Applications
 - Smart fire detection systems
 	- Restores and improves urban infrastructure
 - Prevent hacking of safety monitor equipment 
@@ -74,7 +74,7 @@ Jacob
 - Senior automation technologist (design the system itself)
 ### Real world examples
 - Robotic arms
-- Energy efficient HVAC systems james
+- Energy efficient HVAC systems 
 # Construction 
 ### Reqs
 - Bachelors
@@ -91,4 +91,23 @@ Jacob
 - IT
 - Automotive
 - Aerospace
-
+### Employers
+- GE
+- TArget
+- Amazon
+- ETC
+# Computer Engineering
+### Core Skills
+- Microprocessors
+- Embedded Systemns
+- OS
+- Networlking
+- Computer Architecture
+### Career Paths
+- Computer sytsems Analyst
+- Computer programmer
+- Meachine Learning ENigneering
+- Web Dev
+- Info and security analyst
+# Industry and Employers
+- FANG
