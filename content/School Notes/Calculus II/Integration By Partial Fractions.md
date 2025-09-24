@@ -1,4 +1,4 @@
-when you see the integral of two polynomials, its partial fractions. PROVIDED that the polynomials are "proper." MEANING the degree (highest exponent) of the numerator MUST be LESS than the degree of the denominator. If it's NOT proper, we an make it proper with long fucking division. 
+	when you see the integral of two polynomials, its partial fractions. PROVIDED that the polynomials are "proper." MEANING the degree (highest exponent) of the numerator MUST be LESS than the degree of the denominator. If it's NOT proper, we an make it proper with long fucking division. 
 
 
 Case 1: denominator has different factors, and has some x^1 in there
