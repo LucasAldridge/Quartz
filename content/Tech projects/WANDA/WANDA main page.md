@@ -14,7 +14,7 @@ WANDA uses OpenAI and 11Labs' APIs to generate and audibly speak to you in real 
 - When the wakeup keyword is spoken, WANDA wakes up and waits for a question
 - WANDA listens to the question and feeds it into GPT-4 mini 
 - GPT-4 response is streamed directly into 11Labs' text to speech AI
-- 11Labs' text to speech AI response is played through MPV in subprocess. 
+- 11Labs' text to speech AI response is streamed and output through MPV in subprocess. 
 - While playing the response, WANDA listens for a stop keyword, and if heard, stops speaking the response. 
 # What features does WANDA include?
 ___
