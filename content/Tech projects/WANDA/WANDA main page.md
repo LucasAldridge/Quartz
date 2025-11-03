@@ -1,4 +1,4 @@
-
+		
 This will serve as the primary information page about WANDA as a whole. If you just wanna learn about MY program, this is where you'd do that. But, if you wanna learn about the individual PARTS of my program, that will be in other documents found in the same folder.
 
 # What is WANDA?
@@ -18,7 +18,7 @@ WANDA uses OpenAI and 11Labs' APIs to generate and audibly speak to you in real 
 - While playing the response, WANDA listens for a stop keyword, and if heard, stops speaking the response. 
 # What features does WANDA include?
 ___
-Currently, WANDA can only provide responses based on training data or can search the internet. However, many features are planned and will be coming at a variety of degrees of soon-ness
+Currently, WANDA can provide responses based on training data or can search the internet. And while this may not be the most common use-case, WANDA also includes numerous educational modes that can be changed simply by asking. This will likely be downloadable separately from the standard WANDA package. Many other features are planned and will be coming at a variety of degrees of soon-ness. Currently, WLED integration is being worked on, and other planned features are below. 
 
 # What features are planned?
 ___
@@ -26,6 +26,6 @@ ___
 - Specific weather functions
 - File read/write specific to your use-case (EX: could save recipes it comes up with for later reference)
 - Playing local music files (see: [[Self hosted Music Piracy]])
-- WLED integration (see:[[LED lights]] )
+- WLED integration (see:[[LED lights]] ) (This is extremely doable and will likely be the next feature)
 - Google calendar integration
 

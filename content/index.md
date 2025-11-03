@@ -1,4 +1,4 @@
-# My Quartz page
+	# My Quartz page
 ----
 Here you can find documents for everything from my personal projects, to school notes.
 
