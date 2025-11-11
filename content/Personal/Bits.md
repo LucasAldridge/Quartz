@@ -2,18 +2,15 @@ Completely stolen from Tommy, but so was this website... If you're interested in
 
 # Start
 - "Word is bond"
-- "Xiggity Xiggity (where X represents any letter besides N) followed by a word starting with X"
-- Warmer and colder
-- "Give 'er the 'ol *complete nonsense*"
-- "Old you would've done it"
-- "That's an urban myth"
 - "Sure, but just as friends"
-- Army trick
-- Christian
-- "That's not how your mom does it"
+- Lance
 # Current
-- "Who up blankin they blank"
+- "Old you would've done it"
+- "Lets read some scripture from the good book"
+- JagerBOMB (youre not a pussy, are you?)
+- Council of cool can acutely change legality if crime is cool... Tony Hawk, Samuel L Jackson, Mr. Rogers, Kanye but were trying to get rid of him)
 
 # Stop
-- "Ma-ma!"
-- Bad "Who up blankin they blank"'s
+- Bad "Who up blankin they blanks
+- "That's not how your mom does it" (Elizabeth mad)
+- 
