@@ -1,0 +1,12 @@
+- [x] Vector and Scalar Components
+- [x] Velocity, Acceleration, and gravity  (Week 10 Class 20 slides)
+- [ ] Vector Algebra
+	- [x] Vector addition
+	- [ ] Scalar Multiplication
+	- [x] Vector multiplication
+		- [ ] Dot Product
+		- [x] Cross Product
+	- [x] Vector addition
+- [x] How to find X and Y coords of Vector
+- [x] Parallelogram method
+
