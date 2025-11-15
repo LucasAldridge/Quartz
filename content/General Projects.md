@@ -33,3 +33,4 @@ This is a document for projects that don't really need to be fleshed out with th
 - Sewing patches onto leather boots
 - Scrape work schedule
 - Backup wikipedia
+- Host Ai locally and expose w/ CF tunnels
