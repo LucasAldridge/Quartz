@@ -1,3 +1,0 @@
-Danny is so appropriate for this kinda beat. Peggy is still doing nuts and everything feels very cohesive so far. There are a few silly lines on this track, like Danny claiming there's "white girls all on him," and Peggy saying she's "Back'in it up for the gram." There is a false end to this song that doesn't come off like I reckon Peggy wanted it to... regardless, this track is still good... 
-
-8/10
