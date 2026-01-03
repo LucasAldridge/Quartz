@@ -11,6 +11,8 @@ RANDY (great with australian voice)
 GOOSE
 FRANK
 LAIN
+CASEY
+
 
 
 Of the above names here's whats making it to round 2

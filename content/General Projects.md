@@ -28,7 +28,6 @@ This is a document for projects that don't really need to be fleshed out with th
 - 3D print the shit from all those reels I saved
 - CNC mill something
 - Make an electric scooter
-- Look at crochet patterns & potentially scrape
 - Cable management system
 - Sewing patches onto leather boots
 - Scrape work schedule

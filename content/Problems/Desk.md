@@ -62,11 +62,20 @@ I'm thinking 5.5' in width. 30 inches depth makes sense. I wan a 10 inch depth p
 
 # Legs
 ___
-I have come into the possession of some rolling legs. They can move up and down, which fixes my issue of desk height... now, i'm unsure of how much weight these desks can HANDLE... but I don't imagine these legs can handle more than what's necessary. 
+I have come into the possession of some rolling legs. They can move up and down, which fixes my issue of desk height... now, i'm unsure of how much weight these desks can HANDLE... but I don't imagine these legs cant handle more than what's necessary. 
 
 # Height 
 ___
 Legs should fix this issue
 
 
+Cofirmat screws
+properly sized pilot holes: hole must be the size of the center shaft of the screw
+N95 when cutting
 
+
+| Item     |                     |
+| -------- | ------------------- |
+| Desktop  | 5.5' x 30" x .75-1" |
+| Platform | 2'x10"x.5-.75"      |
+|          |                     |

@@ -1,0 +1,4 @@
+Peggy going nuts as always. Realistically, though... this is a pretty standard opener to the album but I don't think that's necessarily a huge problem. The first track on an album doesn't always need to be a 10/10 banger. The beat transition into Danny's verse is really smooth. Danny is a bit jarring as always, but hes probably the only rapper eclectic enough besides Peggy himself to be on these kinds of beats. Still, a great song. 
+* * *
+
+9/10
